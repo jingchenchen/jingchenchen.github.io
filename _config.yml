@@ -83,11 +83,11 @@ author:
   name             : "Chenchen Jing"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0TKm3fgAAAAJ&hl=en"
-  email            :
+  email            : chenchen.jing@bit.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
