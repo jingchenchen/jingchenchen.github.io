@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chenchen Jing"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Ph.D. Candidate"
-  location         : # "Location"
+  location         : "Beijing"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0TKm3fgAAAAJ&hl=en"
