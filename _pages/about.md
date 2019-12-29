@@ -16,11 +16,11 @@ I am a Ph.D. candidate of Media Computing and Intelligent Systems Lab (MCISLab),
 
 Publications
 ======
-1. Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia and Qi Wu. Overcoming Language Priorsin VQA via Decomposed Linguistic Representations. The Thirty-Fourth AAAI Conference onArtificial Intelligence, 2020.
-1. Wei Jiang, Yuwei Wu, Chenchen Jing, Tan Yu and Yunde Jia. Unsupervised Deep Quantizationfor Object Instance Search. Neurocomputing, 2019.
-1. Chenchen Jing, Zhen Dong, Mingtao Pei and Yunde Jia. Heterogeneous Hashing Network forFace Retrieval across Image and Video Domains. IEEE Transactions on Multimedia (T-MM), 2019.
-1. Zhen Dong, Chenchen Jing, Mingtao Pei and Yunde Jia. Deep CNN based binary hash videorepresentations for face retrieval. Pattern Recognition (PR), 2018.
-1. Chenchen Jing, Zhen Dong, Mingtao Pei and Yunde Jia. Fusing Appearance Features andCorrelation Features for Face Video Retrieval. Pacific Rim Conference on Multimedia (PCM), 2017.
+1. Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia and Qi Wu. Overcoming Language Priorsin VQA via Decomposed Linguistic Representations. The Thirty-Fourth AAAI Conference onArtificial Intelligence, 2020. [pdf]
+1. Wei Jiang, Yuwei Wu, Chenchen Jing, Tan Yu and Yunde Jia. Unsupervised Deep Quantizationfor Object Instance Search. Neurocomputing, 2019. [pdf] 
+1. Chenchen Jing, Zhen Dong, Mingtao Pei and Yunde Jia. Heterogeneous Hashing Network forFace Retrieval across Image and Video Domains. IEEE Transactions on Multimedia (T-MM), 2019. [pdf]
+1. Zhen Dong, Chenchen Jing, Mingtao Pei and Yunde Jia. Deep CNN based binary hash videorepresentations for face retrieval. Pattern Recognition (PR), 2018. [pdf]
+1. Chenchen Jing, Zhen Dong, Mingtao Pei and Yunde Jia. Fusing Appearance Features andCorrelation Features for Face Video Retrieval. Pacific Rim Conference on Multimedia (PCM), 2017. [pdf]
 
 <!-- Site-wide configuration
 ------
