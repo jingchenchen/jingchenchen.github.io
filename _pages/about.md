@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenchen Jing(景宸琛)"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
