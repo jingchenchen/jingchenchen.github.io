@@ -16,7 +16,7 @@ I am a Ph.D. candidate of [Media Computing and Intelligent Systems Lab (MCISLab)
 
 Publications
 ======
-1. Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia and Qi Wu. Overcoming Language Priorsin VQA via Decomposed Linguistic Representations. The Thirty-Fourth AAAI Conference onArtificial Intelligence, 2020. [[pdf](/files/papers/2020/AAAI_Decom_VQA.pdf)]
+1. Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia and Qi Wu. Overcoming Language Priorsin VQA via Decomposed Linguistic Representations. The Thirty-Fourth AAAI Conference on Artificial Intelligence, 2020. [[pdf](/files/papers/2020/AAAI_Decom_VQA.pdf)]
 1. Wei Jiang, Yuwei Wu, Chenchen Jing, Tan Yu and Yunde Jia. Unsupervised Deep Quantizationfor Object Instance Search. Neurocomputing, 2019. [[pdf](/files/papers/2019/Neurocompution_UDQ.pdf)]
 1. Chenchen Jing, Zhen Dong, Mingtao Pei and Yunde Jia. Heterogeneous Hashing Network forFace Retrieval across Image and Video Domains. IEEE Transactions on Multimedia (T-MM), 2019. [[pdf](/files/papers/2019/TMM_HHN.pdf)]
 1. Zhen Dong, Chenchen Jing, Mingtao Pei and Yunde Jia. Deep CNN based binary hash videorepresentations for face retrieval. Pattern Recognition (PR), 2018. [[pdf](/files/papers/2018/PR_Hash_Video.pdf)]
