@@ -12,7 +12,7 @@ redirect_from:
 
 Short Bio
 ======
-I am a Ph.D. candidate of [Media Computing and Intelligent Systems Lab (MCISLab)](http://iitlab.bit.edu.cn/mcislab/), Beijing Institute of Technology (BIT), Beijing. I received the B.S. degree in computer science in 2016 from the BIT. I am now advised by Professor [Yuwei Wu](https://sites.google.com/site/wuyuweibit/), Professor [Mingtao Pei](https://scholar.google.com/citations?user=5ZKH-hwAAAAJ&hl=en) and Professor [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en). My research area lies at the intersection of computer vision and natural language processing.
+I am a Ph.D. candidate of [Media Computing and Intelligent Systems Lab (MCISLab)](http://iitlab.bit.edu.cn/mcislab/), Beijing Institute of Technology (BIT), Beijing. I received the B.S. degree in computer science in 2016 from the BIT. I am now advised by Professor [Yuwei Wu](https://sites.google.com/site/wuyuweibit/), Professor [Mingtao Pei](https://scholar.google.com/citations?user=5ZKH-hwAAAAJ&hl=en) and Professor [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en). I also collaborate with Professor [Qi Wu](http://www.qi-wu.me/), the director of the V3ALab (Vision, Ask, Answer, Act), the University of Adelaide. My research area lies at the intersection of computer vision and natural language processing.
 
 Publications
 ======
