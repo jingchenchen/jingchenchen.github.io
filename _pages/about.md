@@ -16,6 +16,7 @@ I am a Ph.D. candidate of [Media Computing and Intelligent Systems Lab (MCISLab)
 
 Publications
 ======
+1. Chenchen Jing,  Yunde Jia, Yuwei Wu, Xinyu Liu, and Qi Wu. Maintaining Reasoning Consistency in Compositional Visual Question Answering. The Conference on Computer Vision and Pattern Recognition, 2022.
 1. Chenchen Jing,  Yunde Jia, Yuwei Wu, Chuanhao Li, and Qi Wu. Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing. The Thirty-Sixth AAAI Conference on Artificial Intelligence, 2022.
 1. Chenchen Jing, Yuwei Wu, Mingtao Pei, Yao Hu, Yunde Jia and Qi Wu. Visual-Semantic Graph Matching for Visual Grounding. In Proceedings of the 28th ACM International Conference on Multimedia (MM ’20), 2020. [[pdf](/files/papers/2020/ACMMM_VSGM.pdf)]
 1. Chenchen Jing, Yuwei Wu, Xiaoxun Zhang, Yunde Jia and Qi Wu. Overcoming Language Priors in VQA via Decomposed Linguistic Representations. The Thirty-Fourth AAAI Conference on Artificial Intelligence, 2020. [[pdf](/files/papers/2020/AAAI_Decom_VQA.pdf)]
