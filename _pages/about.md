@@ -22,7 +22,7 @@ Publications
 1. **Chenchen Jing**, Yuwei Wu, Xiaoxun Zhang, Yunde Jia and Qi Wu. Overcoming Language Priors in VQA via Decomposed Linguistic Representations. In Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI'20), 2020. [[pdf](/files/papers/2020/AAAI_Decom_VQA.pdf)]
 1. Wei Jiang, Yuwei Wu, **Chenchen Jing**, Tan Yu and Yunde Jia. Unsupervised Deep Quantization for Object Instance Search. Neurocomputing, 2019. [[pdf](/files/papers/2019/Neurocompution_UDQ.pdf)]
 1. **Chenchen Jing**, Zhen Dong, Mingtao Pei and Yunde Jia. Heterogeneous Hashing Network for Face Retrieval across Image and Video Domains. IEEE Transactions on Multimedia (T-MM), 2019. [[pdf](/files/papers/2019/TMM_HHN.pdf)]
-1. Zhen Dong, Chenchen Jing, Mingtao Pei and Yunde Jia. Deep CNN based binary hash video representations for face retrieval. Pattern Recognition (PR), 2018. [[pdf](/files/papers/2018/PR_Hash_Video.pdf)]
+1. Zhen Dong, **Chenchen Jing**, Mingtao Pei and Yunde Jia. Deep CNN based binary hash video representations for face retrieval. Pattern Recognition (PR), 2018. [[pdf](/files/papers/2018/PR_Hash_Video.pdf)]
 1. **Chenchen Jing**, Zhen Dong, Mingtao Pei and Yunde Jia. Fusing Appearance Features and Correlation Features for Face Video Retrieval. Pacific Rim Conference on Multimedia (PCM), 2017. [[pdf](/files/papers/2017/PCM_Fusing.pdf)]
 
 <!-- Site-wide configuration
