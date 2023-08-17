@@ -12,7 +12,8 @@ redirect_from:
 
 Short Bio
 ======
-I am a postdoctoral research fellow of Zhejiang University, working with Prof. [Chunhua Shen](https://cshen.github.io/). I received my Ph.D. degree of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://sites.google.com/site/wuyuweibit/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en). I also collaborate with Prof. [Qi Wu](http://www.qi-wu.me/) of the University of Adelaide. Prior to the Ph.D. study, I received the B.S. degree in computer science in 2016 from the BIT. My research area lies at the intersection of computer vision and natural language processing. 
+I am a postdoctoral research fellow of Zhejiang University, working with Prof. [Chunhua Shen](https://cshen.github.io/) and Prof. [Hao Chen](https://stan-haochen.github.io/). I received my Ph.D. degree of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://sites.google.com/site/wuyuweibit/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en). I also collaborate with Prof. [Qi Wu](http://www.qi-wu.me/) of the University of Adelaide. Prior to the Ph.D. study, I received the B.S. degree in computer science in 2016 from the BIT. My research area lies at the intersection of computer vision and natural language processing. 
+
 
 
 Publications
