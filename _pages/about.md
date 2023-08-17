@@ -17,6 +17,7 @@ I am a postdoctoral research fellow of Zhejiang University, working with Prof. [
 
 Publications
 ======
+1. Muzhi Zhu, Hengtao Li, Hao Chen, Chengxiang Fan, Weian Mao, **Chenchen Jing**, Yifan Liu, Chunhua Shen. SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning. In Proceedings of the IEEE Conference on Computer Vision (ICCV'23), 2023. [[pdf](https://arxiv.org/pdf/2308.06531)]
 1. Chuanhao Li, Zhen Li, **Chenchen Jing**, Yunde Jia, Yuwei Wu. Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-Effect-of-Primitives.pdf)]
 1. Qingsheng Wang, Lingqiao Liu, **Chenchen Jing**, Hao Chen, Guoqiang Liang, Peng Wang, Chunhua Shen. Learning Conditional Attributes for Compositional Zero-Shot Learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-CANET.pdf)]
 1. Mingliang Zhai, Chuanhao Li,  **Chenchen Jing**, Yuwei Wu. Synthesizing Counterfactual Samples for Overcoming Moment Biases in Temporal Video Grounding. In Proceedings of the Pattern Recognition and Computer Vision (PRCV'22), 2022. [[pdf](/files/papers/2022/PRCV_TVG.pdf)]
