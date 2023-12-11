@@ -17,13 +17,15 @@ I am a postdoctoral research fellow of Zhejiang University, working with Prof. [
 
 Recent Publications
 ======
+1. **Chenchen Jing**, Yukun Li, Hao Chen, and Chunhua Shen. Retrieval-augmented Primitive Representations for Compositional Zero-shot Learning. In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24), 2024.
 1. Muzhi Zhu, Hengtao Li, Hao Chen, Chengxiang Fan, Weian Mao, **Chenchen Jing**, Yifan Liu, Chunhua Shen. SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning. In Proceedings of the IEEE Conference on Computer Vision (ICCV'23), 2023. [[pdf](https://arxiv.org/pdf/2308.06531)]
 1. Chuanhao Li, Zhen Li, **Chenchen Jing**, Yunde Jia, Yuwei Wu. Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-Effect-of-Primitives.pdf)]
-1. Qingsheng Wang, Lingqiao Liu, **Chenchen Jing**, Hao Chen, Guoqiang Liang, Peng Wang, Chunhua Shen. Learning Conditional Attributes for Compositional Zero-Shot Learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-CANET.pdf)]
+<!-- 1. Qingsheng Wang, Lingqiao Liu, **Chenchen Jing**, Hao Chen, Guoqiang Liang, Peng Wang, Chunhua Shen. Learning Conditional Attributes for Compositional Zero-Shot Learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-CANET.pdf)] -->
 
 
 First-author Publications
 ======
+1. **Chenchen Jing**, Yukun Li, Hao Chen, and Chunhua Shen. Retrieval-augmented Primitive Representations for Compositional Zero-shot Learning. In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24), 2024.
 1. **Chenchen Jing**,  Yunde Jia, Yuwei Wu, Xinyu Liu and Qi Wu. Maintaining Reasoning Consistency in Compositional Visual Question Answering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'22), 2022. [[pdf](/files/papers/2022/CVPR_DLR.pdf)]
 1. **Chenchen Jing**,  Yunde Jia, Yuwei Wu, Chuanhao Li and Qi Wu. Learning the Dynamics of Visual Relational Reasoning via Reinforced Path Routing. In Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI'22), 2022. [[pdf](/files/papers/2022/AAAI_RPR.pdf)]
 1. **Chenchen Jing**, Yuwei Wu, Mingtao Pei, Yao Hu, Yunde Jia and Qi Wu. Visual-Semantic Graph Matching for Visual Grounding. In Proceedings of the 28th ACM International Conference on Multimedia (MM ’20), 2020. [[pdf](/files/papers/2020/ACMMM_VSGM.pdf)]
