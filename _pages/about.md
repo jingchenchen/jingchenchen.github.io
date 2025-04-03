@@ -12,14 +12,14 @@ redirect_from:
 
 Short Bio
 ======
-I am a postdoctoral research fellow of Zhejiang University, working with Prof. [Chunhua Shen](https://cshen.github.io/) and Prof. [Hao Chen](https://stan-haochen.github.io/). I received my Ph.D. degree of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://sites.google.com/site/wuyuweibit/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en). I also collaborate with Prof. [Qi Wu](http://www.qi-wu.me/) of the University of Adelaide. Prior to the Ph.D. study, I received the B.S. degree in computer science in 2016 from the BIT. My research area lies at the intersection of computer vision and natural language processing. 
+I currently hold the position of Zhaohui Research Fellow with Special Appointment at Zhejiang University of Technology. I was a postdoctoral research fellow of Zhejiang University, working with Prof. [Chunhua Shen](https://cshen.github.io/) and Prof. [Hao Chen](https://stan-haochen.github.io/). I received my Ph.D. degree of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://sites.google.com/site/wuyuweibit/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=en). I also collaborate with Prof. [Qi Wu](http://www.qi-wu.me/) of the University of Adelaide. Prior to the Ph.D. study, I received the B.S. degree in computer science in 2016 from the BIT. My research area lies at the intersection of computer vision and natural language processing. 
 
 
 Recent Publications
 ======
 1. **Chenchen Jing**, Yukun Li, Hao Chen, and Chunhua Shen. Retrieval-augmented Primitive Representations for Compositional Zero-shot Learning. In Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI'24), 2024.
 1. Muzhi Zhu, Hengtao Li, Hao Chen, Chengxiang Fan, Weian Mao, **Chenchen Jing**, Yifan Liu, Chunhua Shen. SegPrompt: Boosting Open-world Segmentation via Category-level Prompt Learning. In Proceedings of the IEEE Conference on Computer Vision (ICCV'23), 2023. [[pdf](https://arxiv.org/pdf/2308.06531)]
-1. Chuanhao Li, Zhen Li, **Chenchen Jing**, Yunde Jia, Yuwei Wu. Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-Effect-of-Primitives.pdf)]
+1. Chuanhao Li, Zhen Li, **Chenchen Jing**, Yunde Jia, Yuwei Wu. Exploring the Effect of Primitives for Compositional Generalization in Vision-and-Language. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Exploring_the_Effect_of_Primitives_for_Compositional_Generalization_in_Vision-and-Language_CVPR_2023_paper.pdf)]
 <!-- 1. Qingsheng Wang, Lingqiao Liu, **Chenchen Jing**, Hao Chen, Guoqiang Liang, Peng Wang, Chunhua Shen. Learning Conditional Attributes for Compositional Zero-Shot Learning. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR'23), 2023. [[pdf](/files/papers/2023/CVPR-CANET.pdf)] -->
 
 
